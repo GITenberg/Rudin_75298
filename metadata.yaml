@@ -1,0 +1,25 @@
+_repo: Rudin_75298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turgenieff, Iwan
+    gutenberg_agent_id: '57932'
+    url: http://www.gutenberg.org/2009/agents/57932
+description: ''
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75298'
+language: de
+pgterms:marc905: 20230615114107turgenieff
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMünchen :$bGeorg Müller Verlag, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rudin
+url: http://www.gutenberg.org/ebooks/75298
